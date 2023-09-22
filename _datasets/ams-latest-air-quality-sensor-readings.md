@@ -1,7 +1,7 @@
 ---
 area_of_interest: null
 category:
-- Economy
+- Econometrics
 - Education
 - Elections / Politics
 - Environment
