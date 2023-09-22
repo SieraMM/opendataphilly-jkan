@@ -2,7 +2,7 @@
 description: "**TERMS OF USE**: Browsing City data on this site constitutes acceptance\
   \ of the license, the City's terms of use and your agreement to be bound by them.\
   \ \r\n\r\nThe City of Philadelphia reserves all rights in the GIS database and any\
-  \ data contained therein, and the end user\u2019s use of the data does not constitute\
+  \ data contained there, and the end user\u2019s use of the data does not constitute\
   \ a transfer of, nor does the end user receive, any title or interest in the database\
   \ or any other City data. The City of Philadelphia makes no representation about\
   \ the accuracy of any specific information in this GIS data and is provided \u201C\
